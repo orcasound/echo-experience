@@ -16,7 +16,7 @@ Here are three sources of impulsive sounds that have been recorded in the Salish
 
 ### Orca click
 
-Here's the original click, clipped out of this field recording of SRKWs calling, whistling, and clicking:
+Here's the original click, clipped out of this field recording of [SRKWs calling, whistling, and clicking](https://orcasound.net/data/product/biophony/SRKW/clicks/srkw-clicks-slow.mp3)":
 
 
 And here's the same click, slowed down in Audacity:
@@ -35,10 +35,6 @@ By slowing it down a little bit further, incrementally, we get 2 more clicks tha
 ### Gray whale call
 
 These aren't echolocation clicks per say, but they are similar impulsive sounds. The type 1 call is sometimes said to resemble a conga drum because each pulse has tonality and the tone is varied in the sequence of pulses that make up a call. (You can hear the full gray whale call from which these sounds were clipped in the [Salish Sea gray whale catalog](https://www.orcasound.net/portfolio/gray-whale-call-catalog/).)
-
-<audio controls>
-  <source src="https://orcasound.net/data/product/biophony/SRKW/clicks/srkw-clicks-slow.mp3)" type="audio/mpeg">
-</audio>
 
 
 ## Echo examples
