@@ -16,7 +16,7 @@ Here are three sources of impulsive sounds that have been recorded in the Salish
 
 ### Orca click
 
-Here's the original click, clipped out of this field recording of [SRKWs calling, whistling, and clicking](https://orcasound.net/data/product/biophony/SRKW/clicks/srkw-clicks-slow.mp3)":
+Here's the original click, clipped out of this field recording of <a href="https://orcasound.net/data/product/biophony/SRKW/clicks/srkw-clicks-slow.mp3" target="_blank">SRKWs calling, whistling, and clicking</a>:
 
 
 And here's the same click, slowed down in Audacity:
